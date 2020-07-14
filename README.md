@@ -1,7 +1,22 @@
-### Hi there 👋
-
 <!--
 **ljw930824/ljw930824** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+### 👋 Hey! 
+
+I'm a software engineer @aisino working on data platform. 
+
+### 😄💻 Blog
+
+- **[fantalovelife](http://fantalovelife.club/)**: Morty
+
+### 📫 How to reach me
+
+- Twitter: [@LjW52oNn](https://twitter.com/LjW52oNn)
+- Email: [aijfanta@gmail.com](mailto:aijfanta@gmail.com)
+
+
+<!--
+**icodesign/icodesign** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
