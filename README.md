@@ -1,6 +1,3 @@
-<!--
-**ljw930824/ljw930824** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 ### 👋 Hey! 
 
 I'm a software engineer @aisino working on data platform. 
