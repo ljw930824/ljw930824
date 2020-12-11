@@ -1,6 +1,6 @@
 ### 👋 Hey! 
 
-I'm a software engineer @aisino working on data platform. 
+Development and R&D. 
 
 ### 😄💻 Blog
 
