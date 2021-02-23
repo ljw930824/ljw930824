@@ -2,7 +2,7 @@
 
 Development and R&D. 
 
-### 😄💻 Blog
+### 😄 💻  Blog
 
 - **[fantalovelife](http://fantalovelife.club/)**: Morty
 
