@@ -1,5 +1,5 @@
 ### ![1c887ecbcf2434f3d5c97d3421aeb8d3.gif](https://i.loli.net/2020/12/25/1uvAhEik2RgCPDp.gif =30) Hey! 
-
+<img src="https://i.loli.net/2020/12/25/1uvAhEik2RgCPDp.gif" width="30px" />
 Development and R&D. 
 
 ### 😄 💻  Blog
